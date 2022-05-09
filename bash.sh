@@ -1,2 +1,2 @@
 echo "starting Bot";
-python3 -m main
+python -m WebStreamer
