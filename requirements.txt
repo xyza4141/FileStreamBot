@@ -1,3 +1,4 @@
+pymongo==2.8
 aiohttp
 pyrogram==1.4
 python-dotenv
